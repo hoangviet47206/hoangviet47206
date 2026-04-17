@@ -1,25 +1,61 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Game+Developer;C%2B%2B+%7C+SDL;Cybersecurity+Learner" />
+  <img src="https://avatars.githubusercontent.com/u/hoangviet47206" width="140"/>
 </p>
-<h1 align="center">Hi 👋, I'm Hoang Viet</h1>
-<h3 align="center">🚀 C++ Developer | SDL Game Dev | Cybersecurity Learner</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Hoang+Viet;C%2B%2B+Game+Developer;Cybersecurity+Learner;Looking+for+Internship" />
+</h1>
+
+<h3 align="center">🎮 Game Developer (C++/SDL) | 🔐 Cybersecurity Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎮 I’m developing **2D Games with SDL (C++)**
-* 🔐 Interested in **Cybersecurity & Data Analysis**
-* 📚 Currently learning: **C++, Algorithms, Game Physics**
-* ⚡ Goal: Become a professional game & security developer
+* 🎓 Student passionate about **Game Development & Cybersecurity**
+* 🎮 Building **2D games with SDL (C++)**
+* 🧠 Interested in **Low-level programming & system security**
+* 🚀 Currently looking for **Internship opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: `C++`
-* 🎮 Game Dev: `SDL2`
-* 🧰 Tools: `Git`, `GitHub`, `VS Code`
+**Languages**
+
+* C++
+
+**Game Development**
+
+* SDL2 (Animation, Collision, Enemy AI, Game Loop)
+
+**Tools**
+
+* Git, GitHub, VS Code
+
+---
+
+## 🎥 Game Demo
+
+<p align="center">
+  <img src="LINK_GIF_GAME" width="500"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🎮 2D SDL Game
+
+* Character movement & animation system
+* Enemy AI (chasing & attacking)
+* Collision handling & map system
+
+### 🧠 BigInt (C++)
+
+* Custom large integer class
+* Operator overloading (+, -, =)
+* Console output support
 
 ---
 
@@ -35,22 +71,17 @@
 
 ---
 
-## 🚀 Projects
+## 🎯 Career Goals
 
-* 🎮 2D SDL Game (Enemy AI, Collision, Animation)
-* 🧠 BigInt implementation in C++
-* 🔐 Future: Cybersecurity tools
-
----
-
-## 🌐 Connect
-
-<p>
-  <a href="https://github.com/hoangviet47206">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+* 📌 Short-term: Internship in **C++ / Game Dev / Cybersecurity**
+* 📌 Long-term: Build **secure systems & real-world applications**
 
 ---
 
-⭐ From [hoangviet47206](https://github.com/hoangviet47206)
+## 📫 Contact
+
+* GitHub: https://github.com/hoangviet47206
+
+---
+
+⭐ *Thanks for visiting my profile!*
