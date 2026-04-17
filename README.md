@@ -38,25 +38,30 @@
 
 ## 🚀 Projects
 
+
 ### 🎮 2D SDL Game (C++)
 
-* Character movement & animation system
-* Enemy AI (chasing & attacking)
-* Collision handling & map system
+A 2D game developed using SDL in C++, focusing on core game development mechanics:
 
-🔗 https://github.com/hoangvietuet/B-i-T-p-L-n
+* Character movement & animation system
+* Enemy AI (chasing & attacking behavior)
+* Collision detection & map handling
+
+🔗 [View Project](https://github.com/hoangvietuet/B-i-T-p-L-n)
+
 ---
 
 ### ☕ Java OOP Project
 
-A project demonstrating core **Object-Oriented Programming concepts**:
+A Java project demonstrating fundamental **Object-Oriented Programming (OOP)** principles:
 
 * Encapsulation, Inheritance, Polymorphism
-* System design using classes
+* Structured class design & modular system
 
-🔗 https://github.com/hoangviet47206/oop_project
+🔗 [View Project](https://github.com/hoangviet47206/oop_project)
 
 ---
+
 
 ### 🧠 BigInt (C++)
 
