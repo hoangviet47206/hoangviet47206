@@ -96,6 +96,7 @@ A project demonstrating core **Object-Oriented Programming concepts**:
 ## 📫 Contact
 
 * GitHub: https://github.com/hoangviet47206
+* Gmail: ln0367338@gmail.com
 
 ---
 
