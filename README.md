@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Student passionate about **Game Development & Cybersecurity**
+* 🎓 Study at VNU_UET
 * 🎮 Developing **2D games with SDL (C++)**
 * ☕ Experienced with **Java & Object-Oriented Programming**
 * 🧠 Interested in **Low-level programming & system security**
@@ -24,7 +24,7 @@
 
 **Languages**
 
-* C++, Java
+* C++, Java, Python
 
 **Game Development**
 
@@ -102,7 +102,8 @@ A Java project demonstrating fundamental **Object-Oriented Programming (OOP)** p
 ## 📫 Contact
 
 * GitHub: https://github.com/hoangviet47206
-* Gmail: ln0367338@gmail.com
+* Gmail:
+ln0367338@gmail.com
 
 ---
 
