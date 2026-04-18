@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Hoang+Viet;Java+Programmer;Cybersecurity+Learner;Looking+for+Internship" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Hoang+Viet;C%2B%2B+Game+Developer;Cybersecurity+Learner;Looking+for+Internship" />
 </h1>
 
-<h3 align="center">🎮 Game Developer | ☕ Java Developer | 🔐 Cybersecurity Enthusiast</h3>
+<h3 align="center">🎮 Game Developer | 💻 C++ Programmer | 🔐 Cybersecurity Learner</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Study at VNU_UET
+* 🎓 Student at **VNU-UET**
 * 🎮 Developing **2D games with SDL (C++)**
-* ☕ Experienced with **Java & Object-Oriented Programming**
-* 🧠 Interested in **Low-level programming & system security**
-* 🚀 Currently looking for **Internship opportunities**
+* 💻 Strong foundation in **C++ & Object-Oriented Programming**
+* 🔐 Interested in **Cybersecurity & Low-level systems**
+* 🚀 Currently seeking **Internship opportunities**
 
 ---
 
@@ -38,34 +38,44 @@
 
 ## 🚀 Projects
 
-
 ### 🎮 2D SDL Game (C++)
 
-A 2D game developed using SDL in C++, focusing on core game development mechanics:
+A 2D game built with SDL focusing on core mechanics:
 
-* Character movement & animation system
-* Enemy AI (chasing & attacking behavior)
-* Collision detection & map handling
+* Character movement & animation
+* Enemy AI (chasing & attacking)
+* Collision detection & map system
 
-🔗 [View Project](https://github.com/hoangvietuet/B-i-T-p-L-n)
+🔗 https://github.com/hoangviet47206/B-i-T-p-L-n
+
+---
+
+### 🧠 LeetCode Practice (Python)
+
+A collection of LeetCode solutions to improve problem-solving skills:
+
+* Each problem = 1 Python file
+* Focus on clean code & optimization
+* Covers arrays, hash maps, basic algorithms
+
+🔗 https://github.com/hoangviet47206/leetcode-python
 
 ---
 
 ### ☕ Java OOP Project
 
-A Java project demonstrating fundamental **Object-Oriented Programming (OOP)** principles:
+Demonstrating core OOP principles:
 
 * Encapsulation, Inheritance, Polymorphism
-* Structured class design & modular system
+* Modular and structured design
 
-🔗 [View Project](https://github.com/hoangviet47206/oop_project)
+🔗 https://github.com/hoangviet47206/oop_project
 
 ---
 
+### 🧮 BigInt (C++)
 
-### 🧠 BigInt (C++)
-
-* Custom large integer class
+* Custom large integer implementation
 * Operator overloading (+, -, =)
 * Console output support
 
@@ -86,24 +96,28 @@ A Java project demonstrating fundamental **Object-Oriented Programming (OOP)** p
 ## 🎯 Career Goals
 
 * 📌 Short-term: Internship in **C++ / Game Development / Cybersecurity**
-* 📌 Long-term: Build **secure systems & real-world applications**
+* 📌 Long-term: Build **secure and efficient systems**
 
 ---
+
 ## 📊 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&theme=tokyo-night"/>
 </p>
 
 ## 🧠 Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangviet47206&layout=compact&theme=tokyonight"/>
 </p>
 
+---
+
 ## 📫 Contact
 
 * GitHub: https://github.com/hoangviet47206
-* Gmail:
-ln0367338@gmail.com
+* Email: [ln0367338@gmail.com](mailto:ln0367338@gmail.com)
 
 ---
 
