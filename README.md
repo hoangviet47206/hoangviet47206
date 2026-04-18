@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hoangviet47206/hoangviet47206/main/early-life-1663605103.jpg" width="280"/>
+  <img src="https://raw.githubusercontent.com/hoangviet47206/hoangviet47206/main/early-life-1663605103.jpg" width="220"/>
 </p>
 
 <h1 align="center">
@@ -46,7 +46,7 @@ A 2D game built with SDL focusing on core mechanics:
 * Enemy AI (chasing & attacking)
 * Collision detection & map system
 
-🔗 https://github.com/hoangviet47206/B-i-T-p-L-n
+🔗 [View Project](https://github.com/hoangviet47206/B-i-T-p-L-n)
 
 ---
 
@@ -58,18 +58,18 @@ A collection of LeetCode solutions to improve problem-solving skills:
 * Focus on clean code & optimization
 * Covers arrays, hash maps, basic algorithms
 
-🔗 https://github.com/hoangviet47206/leetcode-python
+🔗 [View Project](https://github.com/hoangviet47206/leetcode-python)
 
 ---
 
 ### ☕ Java OOP Project
 
-Demonstrating core OOP principles:
+A project demonstrating core Object-Oriented Programming principles:
 
 * Encapsulation, Inheritance, Polymorphism
 * Modular and structured design
 
-🔗 https://github.com/hoangviet47206/oop_project
+🔗 [View Project](https://github.com/hoangviet47206/oop_project)
 
 ---
 
@@ -93,24 +93,32 @@ Demonstrating core OOP principles:
 
 ---
 
-## 🎯 Career Goals
+## 🧠 LeetCode
 
-* 📌 Short-term: Internship in **C++ / Game Development / Cybersecurity**
-* 📌 Long-term: Build **secure and efficient systems**
+<p align="center">
+  <a href="https://leetcode.com/u/Dt9PTtzm3a/">
+    <img src="https://leetcard.jacoblin.cool/Dt9PTtzm3a?theme=dark&font=Baloo_2" />
+  </a>
+</p>
 
 ---
 
-## 📊 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&theme=tokyo-night"/>
 </p>
 
-## 🧠 Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangviet47206&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🎯 Career Goals
+
+* 📌 Short-term: Internship in **C++ / Game Development / Cybersecurity**
+* 📌 Long-term: Build **secure and efficient systems**
 
 ---
 
