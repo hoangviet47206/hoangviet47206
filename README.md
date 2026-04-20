@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hoangviet47206/hoangviet47206/main/early-life-1663605103.jpg" width="220"/>
+  <img src="https://raw.githubusercontent.com/hoangviet47206/hoangviet47206/main/early-life-1663605103.jpg" width="200"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Hoang+Viet;C%2B%2B+Game+Developer;Cybersecurity+Learner;Looking+for+Internship" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Hoang+Viet;C%2B%2B+Game+Developer;Cybersecurity+Learner;Open+to+Internship" />
 </h1>
 
-<h3 align="center">🎮 Game Developer | 💻 C++ Programmer | 🔐 Cybersecurity Learner</h3>
+<h3 align="center">🎮 Game Developer | 💻 C++ Programmer | 🔐 Cybersecurity Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🎓 Student at **VNU-UET**
-* 🎮 Developing **2D games with SDL (C++)**
-* 💻 Strong foundation in **C++ & Object-Oriented Programming**
-* 🔐 Interested in **Cybersecurity & Low-level systems**
-* 🚀 Currently seeking **Internship opportunities**
+* 🎮 Building **2D games using SDL (C++)**
+* 💻 Strong in **C++ & Object-Oriented Programming**
+* 🗄️ Basic knowledge of **MySQL & database design**
+* 🔐 Interested in **Cybersecurity & low-level systems**
+* 🚀 Actively seeking **internship opportunities**
 
 ---
 
@@ -30,12 +31,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
 ### 🎮 Game Development
 
 <p>
-  <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Game%20AI-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Collision%20System-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Collision-00897B?style=for-the-badge"/>
 </p>
 
 ### 🛠 Tools
@@ -52,17 +59,28 @@
 
 ### 🎮 2D SDL Game (C++)
 
+* Character movement & animation
+* Enemy AI (chasing & attacking)
+* Collision system & map handling
+
 🔗 https://github.com/hoangviet47206/B-i-T-p-L-n
 
 ---
 
 ### 🧠 LeetCode Practice (Python)
 
+* Clean & optimized solutions
+* Focus on problem-solving skills
+* Covers arrays, hash maps, algorithms
+
 🔗 https://github.com/hoangviet47206/leetcode-python
 
 ---
 
 ### ☕ Java OOP Project
+
+* Demonstrates OOP principles
+* Modular and structured design
 
 🔗 https://github.com/hoangviet47206/oop_project
 
@@ -95,20 +113,10 @@
 
 ---
 
-## 🧠 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/Dt9PTtzm3a/">
-    <img src="https://leetcard.jacoblin.cool/Dt9PTtzm3a?theme=dark&font=Baloo_2" />
-  </a>
-</p>
-
----
-
 ## 🎯 Career Goals
 
-* 📌 Internship in **C++ / Game Dev / Cybersecurity**
-* 📌 Build **secure & efficient systems**
+* 📌 Short-term: Internship in **C++ / Game Development / Cybersecurity**
+* 📌 Long-term: Build **secure & high-performance systems**
 
 ---
 
