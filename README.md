@@ -22,17 +22,29 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-* C++, Java, Python
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**Game Development**
+### 🎮 Game Development
 
-* SDL2 (Animation, Collision, Enemy AI, Game Loop)
+<p>
+  <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game%20AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Collision%20System-00897B?style=for-the-badge"/>
+</p>
 
-**Tools**
+### 🛠 Tools
 
-* Git, GitHub, VS Code
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
@@ -40,36 +52,19 @@
 
 ### 🎮 2D SDL Game (C++)
 
-A 2D game built with SDL focusing on core mechanics:
-
-* Character movement & animation
-* Enemy AI (chasing & attacking)
-* Collision detection & map system
-
-🔗 [View Project](https://github.com/hoangviet47206/B-i-T-p-L-n)
+🔗 https://github.com/hoangviet47206/B-i-T-p-L-n
 
 ---
 
 ### 🧠 LeetCode Practice (Python)
 
-A collection of LeetCode solutions to improve problem-solving skills:
-
-* Each problem = 1 Python file
-* Focus on clean code & optimization
-* Covers arrays, hash maps, basic algorithms
-
-🔗 [View Project](https://github.com/hoangviet47206/leetcode-python)
+🔗 https://github.com/hoangviet47206/leetcode-python
 
 ---
 
 ### ☕ Java OOP Project
 
-A project demonstrating core Object-Oriented Programming principles:
-
-* Encapsulation, Inheritance, Polymorphism
-* Modular and structured design
-
-🔗 [View Project](https://github.com/hoangviet47206/oop_project)
+🔗 https://github.com/hoangviet47206/oop_project
 
 ---
 
@@ -77,18 +72,25 @@ A project demonstrating core Object-Oriented Programming principles:
 
 * Custom large integer implementation
 * Operator overloading (+, -, =)
-* Console output support
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet47206&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet47206&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet47206&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet47206&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -103,16 +105,10 @@ A project demonstrating core Object-Oriented Programming principles:
 
 ---
 
-## 📈 Activity
-<p align="center">
-  <img src="https://ghchart.rshah.org/hoangviet47206" />
-</p>
----
-
 ## 🎯 Career Goals
 
-* 📌 Short-term: Internship in **C++ / Game Development / Cybersecurity**
-* 📌 Long-term: Build **secure and efficient systems**
+* 📌 Internship in **C++ / Game Dev / Cybersecurity**
+* 📌 Build **secure & efficient systems**
 
 ---
 
