@@ -104,15 +104,9 @@ A project demonstrating core Object-Oriented Programming principles:
 ---
 
 ## 📈 Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangviet47206&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🎯 Career Goals
