@@ -14,9 +14,15 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Student at **VNU-UET**
-* 🔐 Interested in **Cybersecurity & low-level systems**
-* 🚀 Actively seeking **internship opportunities**
+<p>
+
+🎓 Student at <b>VNU-UET</b><br><br>
+
+🔐 Interested in <b>Cybersecurity & low-level systems</b><br><br>
+
+🚀 Actively seeking <b>internship opportunities</b>
+
+</p>
 
 </td>
 
@@ -32,6 +38,22 @@
 
 <p>
   <img src="https://img.shields.io/badge/Email-ln0367338%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Discord-nguyenhoangviet47206-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/nguyễn-hoàng-việt-657442358">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.facebook.com/vievieng.0407006">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 </td>
