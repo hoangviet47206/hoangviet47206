@@ -6,14 +6,37 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Nguyen+Hoang+Viet;Cybersecurity+Learner;Open+to+Internship" />
 </h1>
 
-
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🧑‍💻 About Me
 
 * 🎓 Student at **VNU-UET**
 * 🔐 Interested in **Cybersecurity & low-level systems**
 * 🚀 Actively seeking **internship opportunities**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📫 Contact
+
+<p>
+  <a href="https://github.com/hoangviet47206">
+    <img src="https://img.shields.io/badge/GitHub-hoangviet47206-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Email-ln0367338%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,6 +56,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+---
 
 ## 🚀 Projects
 
@@ -82,13 +106,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 </p>
-
----
-
-## 📫 Contact
-
-* GitHub: https://github.com/hoangviet47206
-* Email: [ln0367338@gmail.com](mailto:ln0367338@gmail.com)
 
 ---
 
