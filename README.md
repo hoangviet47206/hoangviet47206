@@ -12,17 +12,15 @@
 <tr>
 <td width="50%" valign="top">
 
+<table>
+<tr>
+<td width="50%" valign="middle">
+
 ## 🧑‍💻 About Me
 
-<p>
-
-🎓 Student at <b>VNU-UET</b><br><br>
-
-🔐 Interested in <b>Cybersecurity & low-level systems</b><br><br>
-
-🚀 Actively seeking <b>internship opportunities</b>
-
-</p>
+* 🎓 Student at **VNU-UET**
+* 🔐 Interested in **Cybersecurity & low-level systems**
+* 🚀 Actively seeking **internship opportunities**
 
 </td>
 
@@ -59,8 +57,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
