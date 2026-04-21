@@ -51,34 +51,18 @@
 
 ## 🚀 Projects
 
-### 🎮 2D SDL Game (C++)
+<p align="center">
+  <a href="https://github.com/hoangviet47206/B-i-T-p-L-n">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=B-i-T-p-L-n&theme=tokyonight&hide_border=true" width="32%"/>
+  </a>
+  <a href="https://github.com/hoangviet47206/leetcode-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=leetcode-python&theme=tokyonight&hide_border=true" width="32%"/>
+  </a>
+  <a href="https://github.com/hoangviet47206/oop_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=oop_project&theme=tokyonight&hide_border=true" width="32%"/>
+  </a>
+</p>
 
-* Character movement & animation
-* Enemy AI (chasing & attacking)
-* Collision system & map handling
-
-🔗 https://github.com/hoangviet47206/B-i-T-p-L-n
-
----
-
-### 🧠 LeetCode Practice (Python)
-
-* Clean & optimized solutions
-* Focus on problem-solving
-* Covers algorithms & data structures
-
-🔗 https://github.com/hoangviet47206/leetcode-python
-
----
-
-### ☕ Java OOP Project
-
-* Demonstrates OOP principles
-* Structured & modular design
-
-🔗 https://github.com/hoangviet47206/oop_project
-
----
 
 ## 📊 GitHub Dashboard
 
