@@ -80,24 +80,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet47206&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet47206&show_icons=true&theme=tokyonight&hide_border=true" width="32%" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet47206&theme=tokyonight&hide_border=true" width="32%" height="170"/>
+  <img src="https://ghchart.rshah.org/00ffcc/hoangviet47206" width="32%" height="170"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet47206&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
 
 ⭐ *Thanks for visiting my profile!*
