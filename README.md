@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Student at **VNU-UET**
-* 🔐 Interested in **Cybersecurity & low-level systems**
-* 🚀 Actively seeking **internship opportunities**
+- 🎓 Student at **VNU-UET**
+- 🔐 Interested in **Cybersecurity & low-level systems**
+- 🚀 Looking for **internship opportunities**
 
 ---
 
@@ -51,25 +51,48 @@
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/hoangviet47206/B-i-T-p-L-n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=B-i-T-p-L-n&theme=tokyonight&hide_border=true" width="32%"/>
-  </a>
-  <a href="https://github.com/hoangviet47206/leetcode-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=leetcode&theme=tokyonight&hide_border=true" width="32%"/>
-  </a>
-  <a href="https://github.com/hoangviet47206/oop_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=oop_project&theme=tokyonight&hide_border=true" width="32%"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/hoangviet47206/B-i-T-p-L-n">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=B-i-T-p-L-n&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hoangviet47206/leetcode-python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=leetcode&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/hoangviet47206/oop_project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangviet47206&repo=oop_project&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
+---
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet47206&show_icons=true&theme=tokyonight&hide_border=true" width="32%" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet47206&theme=tokyonight&hide_border=true" width="32%" height="170"/>
-  <img src="https://ghchart.rshah.org/00ffcc/hoangviet47206" width="32%" height="170"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hoangviet47206&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet47206&theme=tokyonight&hide_border=true" height="170"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://ghchart.rshah.org/00ffcc/hoangviet47206" height="170"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 ⭐ *Thanks for visiting my profile!*
