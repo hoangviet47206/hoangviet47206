@@ -6,16 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Nguyen+Hoang+Viet;Cybersecurity+Learner;Open+to+Internship" />
 </h1>
 
-<h3 align="center">🎮 Game Developer | 💻 C++ Programmer | 🔐 Cybersecurity Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🎓 Student at **VNU-UET**
-* 🎮 Building **2D games using SDL (C++)**
-* 💻 Strong in **C++ & Object-Oriented Programming**
-* 🗄️ Basic knowledge of **MySQL & database design**
 * 🔐 Interested in **Cybersecurity & low-level systems**
 * 🚀 Actively seeking **internship opportunities**
 
@@ -86,13 +82,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet47206&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 </p>
-
----
-
-## 🎯 Career Goals
-
-* 📌 Short-term: Internship in **C++ / Game Development / Cybersecurity**
-* 📌 Long-term: Build **secure & high-performance systems**
 
 ---
 
