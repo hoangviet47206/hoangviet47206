@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Nguyen+Hoang+Viet;Cybersecurity+Learner;Open+to+Internship" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Nguyen+Hoang+Viet" />
 </h1>
 
 ---
