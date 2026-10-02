@@ -1,4 +1,4 @@
-# ⚡ Nguyễn Hoàng Việt (hoangviet47206)
+# ⚡ Nguyễn Hoàng Việt
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F0FF&vcenter=true&width=500&lines=Third-year+Student+at+VNU-UET;Cybersecurity+Student;Open+for+Internship+Opportunities" alt="Typing SVG" />
@@ -49,25 +49,25 @@
 
 ### 🚀 Highlighted Projects
 
-#### 🎮 [B-i-T-p-L-n](https://github.com/hoangviet47206/B-i-T-p-L-n)
+#### 🎮 [C++ SDL2 Game](https://github.com/hoangviet47206/B-i-T-p-L-n)
 **C++ • SDL2**
 
 A C++ game developed with **SDL2** as an Advanced Programming project.  
 Focused on game logic, event handling, rendering, and object-oriented programming.
 
-#### ☕ [oop_project](https://github.com/hoangviet47206/oop_project)
+#### ☕ [Java OOP Project](https://github.com/hoangviet47206/oop_project)
 **Java • OOP**
 
 A Java project developed to practice **Object-Oriented Programming** concepts.  
 Applies classes, inheritance, encapsulation, and structured software design.
 
-#### 🧩 [leetcode](https://github.com/hoangviet47206/leetcode)
+#### 🧩 [LeetCode Solutions](https://github.com/hoangviet47206/leetcode)
 **Python • C++ • Algorithms**
 
 A collection of my solutions to algorithm and data structure problems.  
 Used to practice problem-solving, algorithmic thinking, and code optimization.
 
-#### 👨‍💼 [employee-management](https://github.com/hoangviet47206/employee-management)
+#### 👨‍💼 [Employee Management System](https://github.com/hoangviet47206/employee-management)
 **JavaScript • HTML/CSS • MySQL • Docker**
 
 A web-based employee management application for managing employee information.  
@@ -87,7 +87,13 @@ Built to practice web development, database operations, Docker, and application 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:24022843@vnu.edu.vn"><img src="https://img.shields.io/badge/VNU_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:ln0367338@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-00599C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hoangviet47206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:24022843@vnu.edu.vn">
+    <img src="https://img.shields.io/badge/VNU_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:ln0367338@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-00599C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hoangviet47206">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
